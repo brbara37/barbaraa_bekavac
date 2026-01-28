@@ -2,8 +2,8 @@
 /* CSS Document */
 
 @font-face {
-font-family: "BarbaraBekavac322";
-src:url("Dokumenti/BarbaraBekavac322.ttf");/
+    font-family: "BarbaraBekavac322";
+    src:url("BarbaraBekavac322.ttf");
 }	
 p {
 	color: palegoldenrod;
@@ -22,7 +22,7 @@ p {
 	font-size: 20px;
 	
 }
-h1 {font-family: "BarbaraBekavac322";
+h1 {font-family: "BarbaraBekavac322", sans-serif;
     color:blue;
 }	
 h2 {
