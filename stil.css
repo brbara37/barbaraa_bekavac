@@ -2,8 +2,8 @@
 /* CSS Document */
 
 @font-face {
-    font-family: "BarbaraBekavac322";
-    src:url(Dokumenti/BarbaraBekavac322.ttf");/
+font-family: "BarbaraBekavac322";
+src:url("Dokumenti/BarbaraBekavac322.ttf");/
 }	
 p {
 	color: palegoldenrod;
