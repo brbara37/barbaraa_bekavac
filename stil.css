@@ -1,5 +1,9 @@
 @charset "utf-8";
 /* CSS Document */
+@font-face {
+    font-family: "BarbaraBekavac322";
+    src:url(BarbaraBekavac322.ttf");
+}	
 p {
 	color: palegoldenrod;
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
@@ -17,7 +21,7 @@ p {
 	font-size: 20px;
 	
 }
-h1 {font-family: BarbaraBekavac;
+h1 {font-family: BarbaraBekavac322;
     color:blue;
 }	
 h2 {
